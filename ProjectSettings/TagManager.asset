@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Door
+  - Object
+  - Microwave
+  - MicrowaveDoor
+  - Sofa
+  - Bed
   layers:
   - Default
   - TransparentFX
